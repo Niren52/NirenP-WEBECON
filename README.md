@@ -1,1 +1,1 @@
-# W.E.N.P
+Code and Report for Web Economics Assignment
